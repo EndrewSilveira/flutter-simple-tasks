@@ -1,16 +1,5 @@
-# project_mars
+# Flutter Simple Task App
 
-On going
+Primeiro App em Flutter criado para gerenciar tarefas simples, onde o usuário pode especificar uma imagem, nome e dificuldade da tarefa criada.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O App foi construido durante a Formação Alura voltada para flutter.
